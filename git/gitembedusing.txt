@@ -1,3 +1,0 @@
-[sourcecode language="js"]
-[git:https://github.com/picharnan/picharnan-tutorial/blob/master/javascript/handle-ajax-loading-status.js{2}]
-[/sourcecode]
